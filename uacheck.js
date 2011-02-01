@@ -11,11 +11,12 @@ function uaCheck(){
 	var T=new Date(new Date().getTime()+2628000000).toGMTString();
 	var m="Hey, you're using the ";
 	var m2=", right? If you want to skip straight to your phones page, hitup ok. otherwise, just tap cancel, and sorry for bothering you.";
-	var b="http://where_we_want_to_forward.com"var M="motorola";
+	var b="http://where_we_want_to_forward.com";
+	var M="motorola";
 	var B=" Build";
 	var S="samsung";
        
-	 if (document.cookie.indexOf("F") === -1){
+	if (document.cookie.indexOf("F") === -1){
         if (uA.indexOf('Droid'+B)!==-1){var a=C(m+"droid"+m2);if (a){w.location=b;X.cookie=d+t;}else{X.cookie=D+T;}}
         if (uA.indexOf('G1'+B)!==-1){var a=C(m+"g1"+m2);if (a){w.location=b;X.cookie=d+t;}else{X.cookie=D+T;}}
         if (uA.indexOf('ADR6200'+B)!==-1){var a=C(m+"droid eris"+m2);if (a){w.location=b;X.cookie=d+t;}else{X.cookie=D+T;}}
