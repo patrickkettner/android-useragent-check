@@ -1,0 +1,42 @@
+                          ..                     ..
+                          :I:                   :I:
+                           :I:     .........   :I:
+                            :I:..:IIIIIIIIIII.:I:
+                          ..:IIIIIIIIIIIIIIIIIII:..
+                       .:IIIIIIIIIIIIIIIIIIIIIIIIII:.
+                      .:IIIII   ?IIIIIIIIIII   ?IIIII:.
+                    .:IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:.
+                    :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:
+                    :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:
+           ....                                               ....
+         .=IIII=.   :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:  .=IIII=.
+        :IIIIIIII:  :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: :IIIIIIII:
+        :IIIIIIII:  :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: :IIIIIIII:
+        :IIIIIIII:  :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: :IIIIIIII:
+        :IIIIIIII:  :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: :IIIIIIII:
+        :IIIIIIII:  :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: :IIIIIIII:
+        :IIIIIIII:  :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: :IIIIIIII:
+        :IIIIIIII:  :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: :IIIIIIII:
+        :IIIIIIII:  :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: :IIIIIIII:
+        ':IIIIII:'  :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: ':IIIIII:'
+         ':?==D:'   :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:  ':?==D:'
+                    :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:
+                    ':IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:'
+                     ':IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:'
+                           :IIIIIIII:     :IIIIIIII:
+                           :IIIIIIII:     :IIIIIIII:
+                           :IIIIIIII:     :IIIIIIII:
+                           :IIIIIIII:     :IIIIIIII:
+                           :IIIIIIII:     :IIIIIIII:
+                           :IIIIIIII:     :IIIIIIII:
+                           :IIIIIIII:     :IIIIIIII:
+                           ':IIIIII:'     ':IIIIII:'
+
+
+android uaCheck is just a simple way to detect specific android phones based on their useragent.
+
+I use it to forward to a new page, but can easily be modified to do anything else with this information.
+
+the original list was compiled by patrick kettneri (patrick@patrickkettner.com), and is released to the public domain.
+
+additions (especially for non US android devices) are greatly accepted, either pull request or email.
